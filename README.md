@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Python and Javascript** 
+- 🌱 I’m currently learning **Java and Javascript** 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I **hate** peanut a lot
 
