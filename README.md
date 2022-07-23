@@ -3,7 +3,6 @@
 
 
 
-- 🌱 I’m currently learning **Kotlin and Javascript** 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I **hate** peanut a lot
 
