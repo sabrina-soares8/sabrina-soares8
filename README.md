@@ -5,7 +5,8 @@
 
 
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I **hate** peanut a lot
+- ⚡ Fun fact: I **hate** peanut a lot 
+<br>
   
   <div align="center">
   <a href="https://github.com/Sasyk8">
